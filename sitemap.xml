@@ -4,6 +4,43 @@
 
   <url>
     <loc>https://macville.github.io/</loc>
+    <lastmod>2025-10-17T15:33:14+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/smarthome/mein-smarthome/</loc>
+    <lastmod>2025-10-17T15:33:14+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/smarthome/</loc>
+    <lastmod>2025-10-17T15:33:14+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/docker/</loc>
+    <lastmod>2025-10-17T15:32:51+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/docker/meine-docker-container/</loc>
+    <lastmod>2025-10-17T15:32:51+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/homelab/</loc>
+    <lastmod>2025-10-17T15:32:23+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://macville.github.io/homelab/mein-homelab/</loc>
+    <lastmod>2025-10-17T15:32:23+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
