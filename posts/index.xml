@@ -6,7 +6,28 @@
     <description>Recent content in Posts on MacVilles Blog</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 22:42:43 +0200</lastBuildDate>
     <atom:link href="https://blog.muehlendick.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mein SmartHome</title>
+      <link>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</link>
+      <pubDate>Fri, 17 Oct 2025 22:42:43 +0200</pubDate>
+      <guid>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meine Docker Container</title>
+      <link>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</link>
+      <pubDate>Fri, 17 Oct 2025 22:41:11 +0200</pubDate>
+      <guid>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mein Homelab</title>
+      <link>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</link>
+      <pubDate>Fri, 17 Oct 2025 22:40:49 +0200</pubDate>
+      <guid>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

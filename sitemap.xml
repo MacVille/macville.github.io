@@ -11,8 +11,29 @@
   
     
       <url>
+            <loc>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</loc>
+            <lastmod>2025-10-17T22:42:43+02:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://blog.muehlendick.xyz/posts/</loc>
             <lastmod>2025-10-17T22:42:43+02:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</loc>
+            <lastmod>2025-10-17T22:41:11+02:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</loc>
+            <lastmod>2025-10-17T22:40:49+02:00</lastmod>
           </url>
     
   
