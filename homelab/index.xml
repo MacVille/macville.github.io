@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homelabs on Blowfish</title>
-    <link>https://macville.github.io/homelab/</link>
+    <link>https://blog.muehlendick.xyz/homelab/</link>
     <description>Recent content in Homelabs on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 15:32:23 +0200</lastBuildDate><atom:link href="https://macville.github.io/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 15:32:23 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/homelab/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mein Homelab</title>
-      <link>https://macville.github.io/homelab/mein-homelab/</link>
+      <link>https://blog.muehlendick.xyz/homelab/mein-homelab/</link>
       <pubDate>Fri, 17 Oct 2025 15:32:23 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://macville.github.io/homelab/mein-homelab/</guid>
+      <guid>https://blog.muehlendick.xyz/homelab/mein-homelab/</guid>
       <description></description>
       
     </item>
