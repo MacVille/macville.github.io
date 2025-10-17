@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MacVilles Blog</title>
-    <link>https://blog.muehlendick.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on MacVilles Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 22:42:43 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 22:42:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mein SmartHome</title>
-      <link>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</link>
+      <link>http://localhost:1313/posts/smarthome/mein-smarthome/</link>
       <pubDate>Fri, 17 Oct 2025 22:42:43 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</guid>
+      <guid>http://localhost:1313/posts/smarthome/mein-smarthome/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Meine Docker Container</title>
-      <link>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</link>
+      <link>http://localhost:1313/posts/docker/meine-docker-container/</link>
       <pubDate>Fri, 17 Oct 2025 22:41:11 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</guid>
+      <guid>http://localhost:1313/posts/docker/meine-docker-container/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Mein Homelab</title>
-      <link>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</link>
+      <link>http://localhost:1313/posts/homelab/mein-homelab/</link>
       <pubDate>Fri, 17 Oct 2025 22:40:49 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</guid>
+      <guid>http://localhost:1313/posts/homelab/mein-homelab/</guid>
       <description></description>
       
     </item>

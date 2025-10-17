@@ -4,8 +4,10 @@
     <title>Categories on </title>
     <link>http://localhost:1313/en%20copy/categories/</link>
     <description>Recent content in Categories on </description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en copy</language>
+    <copyright>© 2025 </copyright>
     <atom:link href="http://localhost:1313/en%20copy/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>

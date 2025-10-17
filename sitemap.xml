@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog.muehlendick.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-17T22:42:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/posts/smarthome/mein-smarthome/</loc>
+    <loc>http://localhost:1313/posts/smarthome/mein-smarthome/</loc>
     <lastmod>2025-10-17T22:42:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-10-17T22:42:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/posts/docker/meine-docker-container/</loc>
+    <loc>http://localhost:1313/posts/docker/meine-docker-container/</loc>
     <lastmod>2025-10-17T22:41:11+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/posts/homelab/mein-homelab/</loc>
+    <loc>http://localhost:1313/posts/homelab/mein-homelab/</loc>
     <lastmod>2025-10-17T22:40:49+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
