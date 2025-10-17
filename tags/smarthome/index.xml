@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smarthome on MacVilles Blog</title>
+    <link>https://blog.muehlendick.xyz/tags/smarthome/</link>
+    <description>Recent content in Smarthome on MacVilles Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>youremail@example.com (MacVille)</managingEditor>
+    <webMaster>youremail@example.com (MacVille)</webMaster>
+    <copyright>© 2025 MacVille</copyright>
+    <lastBuildDate>Sat, 18 Oct 2025 00:32:43 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/tags/smarthome/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mein SmartHome</title>
+      <link>https://blog.muehlendick.xyz/smarthome/mein-smarthome/</link>
+      <pubDate>Sat, 18 Oct 2025 00:32:43 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/smarthome/mein-smarthome/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

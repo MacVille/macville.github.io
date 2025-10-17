@@ -9,17 +9,7 @@
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 23:17:05 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/homelab/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Mein HomeLab</title>
-      <link>https://blog.muehlendick.xyz/homelab/mein-homelab/</link>
-      <pubDate>Fri, 17 Oct 2025 23:17:05 +0200</pubDate>
-      <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/homelab/mein-homelab/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 00:32:27 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/homelab/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

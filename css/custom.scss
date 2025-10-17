@@ -1,0 +1,7 @@
+/* Beispiel: Breite des Inhaltsbereichs erhöhen */
+.content,
+.article-content,
+.page-content {
+  max-width: 900px;   // Oder 100%, 80ch, etc.
+  margin: 0 auto;     // Zentriert den Text
+}

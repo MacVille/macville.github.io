@@ -3,44 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://blog.muehlendick.xyz/docker/</loc>
+    <lastmod>2025-10-18T00:47:16+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://blog.muehlendick.xyz/</loc>
-    <lastmod>2025-10-17T23:21:54+02:00</lastmod>
+    <lastmod>2025-10-18T00:47:16+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.muehlendick.xyz/docker/paperless-ngx-backup/</loc>
+    <lastmod>2025-10-18T00:47:16+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.muehlendick.xyz/docker/vaultwarden-backup/</loc>
+    <lastmod>2025-10-18T00:44:28+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://blog.muehlendick.xyz/smarthome/mein-smarthome/</loc>
-    <lastmod>2025-10-17T23:17:56+02:00</lastmod>
+    <lastmod>2025-10-18T00:32:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://blog.muehlendick.xyz/smarthome/</loc>
-    <lastmod>2025-10-17T23:17:56+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://blog.muehlendick.xyz/docker/</loc>
-    <lastmod>2025-10-17T23:17:18+02:00</lastmod>
+    <lastmod>2025-10-18T00:32:43+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://blog.muehlendick.xyz/docker/meine-docker-container/</loc>
-    <lastmod>2025-10-17T23:17:18+02:00</lastmod>
+    <lastmod>2025-10-18T00:32:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://blog.muehlendick.xyz/homelab/</loc>
-    <lastmod>2025-10-17T23:17:05+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://blog.muehlendick.xyz/homelab/mein-homelab/</loc>
-    <lastmod>2025-10-17T23:17:05+02:00</lastmod>
+    <lastmod>2025-10-18T00:32:27+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on MacVilles Blog</title>
+    <link>https://blog.muehlendick.xyz/tags/docker/</link>
+    <description>Recent content in Docker on MacVilles Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>youremail@example.com (MacVille)</managingEditor>
+    <webMaster>youremail@example.com (MacVille)</webMaster>
+    <copyright>© 2025 MacVille</copyright>
+    <lastBuildDate>Sat, 18 Oct 2025 00:47:16 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paperless Ngx Backup</title>
+      <link>https://blog.muehlendick.xyz/docker/paperless-ngx-backup/</link>
+      <pubDate>Sat, 18 Oct 2025 00:47:16 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/docker/paperless-ngx-backup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vaultwarden Backup</title>
+      <link>https://blog.muehlendick.xyz/docker/vaultwarden-backup/</link>
+      <pubDate>Sat, 18 Oct 2025 00:44:28 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/docker/vaultwarden-backup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meine Docker Container</title>
+      <link>https://blog.muehlendick.xyz/docker/meine-docker-container/</link>
+      <pubDate>Sat, 18 Oct 2025 00:32:35 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/docker/meine-docker-container/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

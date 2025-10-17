@@ -9,7 +9,47 @@
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <atom:link href="https://blog.muehlendick.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2025 00:47:16 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker</title>
+      <link>https://blog.muehlendick.xyz/tags/docker/</link>
+      <pubDate>Sat, 18 Oct 2025 00:47:16 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/tags/docker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homelab</title>
+      <link>https://blog.muehlendick.xyz/tags/homelab/</link>
+      <pubDate>Sat, 18 Oct 2025 00:47:16 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/tags/homelab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paperless-Ngx</title>
+      <link>https://blog.muehlendick.xyz/tags/paperless-ngx/</link>
+      <pubDate>Sat, 18 Oct 2025 00:47:16 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/tags/paperless-ngx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Smarthome</title>
+      <link>https://blog.muehlendick.xyz/tags/smarthome/</link>
+      <pubDate>Sat, 18 Oct 2025 00:32:43 +0200</pubDate>
+      <author>youremail@example.com (MacVille)</author>
+      <guid>https://blog.muehlendick.xyz/tags/smarthome/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
