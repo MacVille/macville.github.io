@@ -9,37 +9,7 @@
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 22:42:43 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Mein SmartHome</title>
-      <link>http://localhost:1313/posts/smarthome/mein-smarthome/</link>
-      <pubDate>Fri, 17 Oct 2025 22:42:43 +0200</pubDate>
-      <author>youremail@example.com (MacVille)</author>
-      <guid>http://localhost:1313/posts/smarthome/mein-smarthome/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meine Docker Container</title>
-      <link>http://localhost:1313/posts/docker/meine-docker-container/</link>
-      <pubDate>Fri, 17 Oct 2025 22:41:11 +0200</pubDate>
-      <author>youremail@example.com (MacVille)</author>
-      <guid>http://localhost:1313/posts/docker/meine-docker-container/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mein Homelab</title>
-      <link>http://localhost:1313/posts/homelab/mein-homelab/</link>
-      <pubDate>Fri, 17 Oct 2025 22:40:49 +0200</pubDate>
-      <author>youremail@example.com (MacVille)</author>
-      <guid>http://localhost:1313/posts/homelab/mein-homelab/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

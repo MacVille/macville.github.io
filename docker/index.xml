@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on MacVilles Blog</title>
-    <link>https://blog.muehlendick.xyz/authors/</link>
-    <description>Recent content in Authors on MacVilles Blog</description>
+    <title>Dockers on MacVilles Blog</title>
+    <link>https://blog.muehlendick.xyz/docker/</link>
+    <description>Recent content in Dockers on MacVilles Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <atom:link href="https://blog.muehlendick.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 23:17:18 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/docker/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
