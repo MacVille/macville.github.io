@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blowfish</title>
-    <link>https://blog.muehlendick.xyz/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>youremail@example.com (MacVille)</managingEditor>
     <webMaster>youremail@example.com (MacVille)</webMaster>
     <copyright>© 2025 MacVille</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 15:32:51 +0200</lastBuildDate><atom:link href="https://blog.muehlendick.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 15:32:51 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Homelab,docker</title>
-      <link>https://blog.muehlendick.xyz/tags/homelabdocker/</link>
+      <link>http://localhost:1313/tags/homelabdocker/</link>
       <pubDate>Fri, 17 Oct 2025 15:32:51 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/tags/homelabdocker/</guid>
+      <guid>http://localhost:1313/tags/homelabdocker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>https://blog.muehlendick.xyz/tags/homelab/</link>
+      <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Fri, 17 Oct 2025 15:32:23 +0200</pubDate>
       <author>youremail@example.com (MacVille)</author>
-      <guid>https://blog.muehlendick.xyz/tags/homelab/</guid>
+      <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
       
     </item>

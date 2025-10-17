@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://blog.muehlendick.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-17T15:33:14+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/smarthome/mein-smarthome/</loc>
+    <loc>http://localhost:1313/smarthome/mein-smarthome/</loc>
     <lastmod>2025-10-17T15:33:14+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/smarthome/</loc>
+    <loc>http://localhost:1313/smarthome/</loc>
     <lastmod>2025-10-17T15:33:14+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/docker/</loc>
+    <loc>http://localhost:1313/docker/</loc>
     <lastmod>2025-10-17T15:32:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/docker/meine-docker-container/</loc>
+    <loc>http://localhost:1313/docker/meine-docker-container/</loc>
     <lastmod>2025-10-17T15:32:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/homelab/</loc>
+    <loc>http://localhost:1313/homelab/</loc>
     <lastmod>2025-10-17T15:32:23+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://blog.muehlendick.xyz/homelab/mein-homelab/</loc>
+    <loc>http://localhost:1313/homelab/mein-homelab/</loc>
     <lastmod>2025-10-17T15:32:23+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
