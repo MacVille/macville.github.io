@@ -9,6 +9,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://blog.muehlendick.xyz/smarthome/mein-smarthome/</loc>
+    <lastmod>2025-10-17T23:17:56+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://blog.muehlendick.xyz/smarthome/</loc>
     <lastmod>2025-10-17T23:17:56+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -21,7 +27,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://blog.muehlendick.xyz/docker/meine-docker-container/</loc>
+    <lastmod>2025-10-17T23:17:18+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://blog.muehlendick.xyz/homelab/</loc>
+    <lastmod>2025-10-17T23:17:05+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://blog.muehlendick.xyz/homelab/mein-homelab/</loc>
     <lastmod>2025-10-17T23:17:05+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
